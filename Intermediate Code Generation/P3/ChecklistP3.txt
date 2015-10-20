@@ -1,0 +1,24 @@
+Checklist for Assignment #3
+
+Q.) Have you named your main program as P3.java, that can be compiled with javac?
+YES
+Q.) Does your P3.java takes input from Standard Input (System.in)?
+YES
+Q.) Does your P3.java gives output to Standard Output (System.out)?
+YES
+Q.) Have you removed all the debugging messages that your program may output? (Output of System.err isn't considered, and thus maybe kept)
+YES
+Q.) Have you removed all the binaries, .jar and .class files from your project?
+YES
+Q.) Is P3 the immediate parent of P3.java?
+YES
+Q.) Is this checklist a file in P3? 
+YES
+Q.) Have you named your project directory as XXXXXXXX (your eight digit roll number), and is P3 a part of it?
+YES
+Q.) Have you tar+gzipped the project directory as XXXXXXXX.P3.tar.gz?
+YES
+Q.) Is (some part of) your assignment plagiarized? 
+NO
+Any comments about your evaluation strategy :
+

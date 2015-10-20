@@ -1,0 +1,24 @@
+
+<!-- saved from url=(0061)http://www.cse.iitm.ac.in/moodle/file.php/322/ChecklistP5.txt -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style></head><body><pre><p>Q.) Have you named your main program as P5.java, that can be compiled with javac?
+
+Q.) Does your P5.java takes input from Standard Input (System.in)?
+
+Q.) Does your P5.java gives output to Standard Output (System.out)?
+
+Q.) Have you removed all the debugging messages that your program may output? (Output of System.err isn't considered, and thus maybe kept)
+
+Q.) Have you removed all the binaries, .jar and .class files from your project?
+
+Q.) Is P5 the immediate parent of P5.java?
+
+Q.) Is this checklist a file in P5? 
+
+Q.) Have you named your project directory as XXXXXXXX (your eight digit roll number), and is P5 a part of it?
+
+Q.) Have you tar+gzipped the project directory as XXXXXXXX.P5.tar.gz?
+
+Q.) Is (some part of) your assignment plagiarized? 
+
+Any comments about your evaluation strategy :
+</p></pre></body></html>

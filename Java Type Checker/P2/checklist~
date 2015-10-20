@@ -1,0 +1,19 @@
+Q.) Have you named your main program as P2.java, that can be compiled with javac?
+
+Q.) Does your P2.java takes input from Standard Input (System.in)?
+
+Q.) Does your P2.java gives output to Standard Output (System.out)?
+
+Q.) Have you removed all the debugging messages that your program may output? (Output of System.err isn't considered, and thus maybe kept)
+
+Q.) Have you removed all the binaries, .jar and .class files from your project?
+
+Q.) Is P2 the immediate parent of P2.java?
+
+Q.) Is this checklist a file in P2? 
+
+Q.) Have you named your project directory as XXXXXXXX (your eight digit roll number), and is P2 a part of it?
+
+Q.) Have you tar+gzipped the project directory as XXXXXXXX.P2.tar.gz?
+
+Q.) Is (some part of) your assignment plagiarized?

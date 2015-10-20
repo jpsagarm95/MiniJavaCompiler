@@ -1,0 +1,23 @@
+Checklist for Assignment #4
+
+Q.) Have you named your main program as P4.java, that can be compiled with javac?
+Yes
+Q.) Does your P4.java takes input from Standard Input (System.in)?
+Yes
+Q.) Does your P4.java gives output to Standard Output (System.out)?
+Yes
+Q.) Have you removed all the debugging messages that your program may output? (Output of System.err isn't considered, and thus maybe kept)
+Yes
+Q.) Have you removed all the binaries, .jar and .class files from your project?
+Yes
+Q.) Is P4 the immediate parent of P4.java?
+Yes
+Q.) Is this checklist a file in P4? 
+Yes
+Q.) Have you named your project directory as XXXXXXXX (your eight digit roll number), and is P4 a part of it?
+Yes
+Q.) Have you tar+gzipped the project directory as XXXXXXXX.P4.tar.gz?
+Yes
+Q.) Is (some part of) your assignment plagiarized? 
+No
+Any comments about your evaluation strategy :

@@ -1,0 +1,20 @@
+Q.) Have you named your main program as P5.java, that can be compiled with javac?
+Yes
+Q.) Does your P5.java takes input from Standard Input (System.in)?
+Yes
+Q.) Does your P5.java gives output to Standard Output (System.out)?
+Yes
+Q.) Have you removed all the debugging messages that your program may output? (Output of System.err isn't considered, and thus maybe kept)
+Yes
+Q.) Have you removed all the binaries, .jar and .class files from your project?
+Yes
+Q.) Is P5 the immediate parent of P5.java?
+Yes
+Q.) Is this checklist a file in P5? 
+Yes
+Q.) Have you named your project directory as XXXXXXXX (your eight digit roll number), and is P5 a part of it?
+Yes
+Q.) Have you tar+gzipped the project directory as XXXXXXXX.P5.tar.gz?
+Yes
+Q.) Is (some part of) your assignment plagiarized? 
+No

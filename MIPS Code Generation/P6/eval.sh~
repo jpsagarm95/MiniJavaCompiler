@@ -1,0 +1,22 @@
+#!/bin/bash
+for i in MiniRAtest/*.miniRA;
+do
+#echo $i;
+	s={$i}
+	filename="${s##*/}"
+	filename="${filename%.*}"
+	echo "$filename"
+	#java P5 < $i > MiniRAtest/$filename.miniRA;
+	java P6 < $i > tempfile.s;
+	./spim -file tempfile.s | sed '1d' > tmpoutput;
+	java -jar kgi.jar < $i > tmpoutput2;
+	diff tmpoutput2 tmpoutput > /dev/null;
+	if [ $? -eq 0 ]
+		then
+		echo "Successful"
+		else
+		echo $j;
+		echo "Failed"
+	fi
+	#rm tmpoutput tmpoutput2
+done
